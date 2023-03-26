@@ -15,4 +15,4 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import LSTM
 
-For website take the moistureminds doc and run it on visual studio
+For website take the moistureminds html file and run it on visual studio
